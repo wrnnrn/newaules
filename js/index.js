@@ -1,5 +1,5 @@
 // Establece la fecha de finalización (puedes ajustarla según tus necesidades)
-  var countDownDate = new Date("Mar 23, 2023 00:00:00").getTime();
+  var countDownDate = new Date("March 23, 2023 00:00:00").getTime();
 
   // Actualiza el contador cada segundo
   var x = setInterval(function() {
